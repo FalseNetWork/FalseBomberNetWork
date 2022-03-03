@@ -20,5 +20,5 @@
 
     python main.py
 
-## ![VSCODE](https://img.shields.io/static/v1?label=VSCODE&color=<COLOR>) ![PyPI](https://img.shields.io/pypi/v/tkinter-page?color=orange&label=python%203.10&style=plastic) ![FastCode](https://img.shields.io/badge/Fast-Code-blue) ![MitnickOff](https://img.shields.io/badge/Mitnick-Off-blueviolet)
+## ![1]https://img.shields.io/badge/VS-CODE-green ![PyPI](https://img.shields.io/pypi/v/tkinter-page?color=orange&label=python%203.10&style=plastic) ![FastCode](https://img.shields.io/badge/Fast-Code-blue) ![MitnickOff](https://img.shields.io/badge/Mitnick-Off-blueviolet)
 
