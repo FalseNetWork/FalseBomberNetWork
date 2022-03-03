@@ -6,9 +6,9 @@
 
 	apt upgrade
 
-		apt install git
+	apt install git
 
-    	apt install python
+    apt install python
 
 	git clone https://github.com/FalseNetWork/FalseBomberNetWork.git
 <br/>
