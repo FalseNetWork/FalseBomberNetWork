@@ -6,7 +6,7 @@
 
 	apt upgrade
 
-	apt install git
+		apt install git
 
     	apt install python
 
