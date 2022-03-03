@@ -1,6 +1,6 @@
 <h1 align="center", style="font-size: 38px; font-weight: bold;">FalseBomberNetWork</h1>
 
-<h3 align="center", style="font-size: 24px; margin-top: 50px">🛠 Установка компонентов 🛠</h3>
+<h3 align="center", style="font-size: 24px; margin-top: 100px">🛠 Установка компонентов 🛠</h3>
 
 	apt update
 
