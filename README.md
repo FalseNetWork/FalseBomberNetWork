@@ -24,10 +24,8 @@
  <br/>
  <br/>
  
- <div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FalseNetWork&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FalseNetWork&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FalseNetWork&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FalseNetWork&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FalseNetWork&theme=solarized_dark)
-</div>
