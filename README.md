@@ -19,7 +19,7 @@
     pip install -r requierment.txt
 
     python main.py
-    
+<br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&duration=3500&vCenter=true&height=35&lines=Repository%3A+FalseBomberNetWork)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=35&duration=3500&vCenter=true&height=35&lines=Name%3A+FalseNetWork)](https://git.io/typing-svg)
