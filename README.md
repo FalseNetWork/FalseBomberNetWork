@@ -1,8 +1,7 @@
 <h1 align="center", style="font-size: 38px; font-weight: bold;">FalseBomberNetWork</h1>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-
+<br/>
+<br/>
+<br/>
 <h3 align="center", style="font-size: 24px">🛠 Установка компонентов 🛠</h3>
 
 	apt update
@@ -14,9 +13,6 @@
     apt install python
 
 	git clone https://github.com/FalseNetWork/FalseBomberNetWork.git
-<h3></h3>
-<h3></h3>
-<h3></h3>
 
 <h3 align="center", style="font-size: 24px">♻️ Подготовка к запуску ♻️</h3>
 
@@ -26,11 +22,6 @@
     pip install -r requierment.txt
 
     python main.py
-
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FalseNetWork&theme=solarized_dark)
