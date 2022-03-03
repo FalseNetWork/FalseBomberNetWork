@@ -1,6 +1,6 @@
 <h1 align="center", style="font-size: 38px; font-weight: bold;">FalseBomberNetWork</h1>
 
-<h3 align="center", style="font-size: 24px; margin-top: 1000px">🛠 Установка компонентов 🛠</h3>
+<h3 align="center", style="font-size: 24px">🛠 Установка компонентов 🛠</h3>
 
 	apt update
 
@@ -12,7 +12,7 @@
 
 	git clone https://github.com/FalseNetWork/FalseBomberNetWork.git
 
-<h3 align="center", style="font-size: 24px; margin-top: 35px">♻️ Подготовка к запуску ♻️</h3>
+<h3 align="center", style="font-size: 24px">♻️ Подготовка к запуску ♻️</h3>
 
 
     cd ./FalseBomberNetWork
